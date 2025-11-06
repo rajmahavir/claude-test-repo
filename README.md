@@ -2,9 +2,14 @@
 
 A comprehensive, modern web application that combines powerful tools for GPS image watermarking and PDF manipulation - all running 100% client-side in your browser!
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://rajmahavir.github.io/Tools/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Client--Side-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Mobile Friendly](https://img.shields.io/badge/Mobile-Responsive-green)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+
+## 🌐 Live Demo
+
+**Try it now:** [https://rajmahavir.github.io/Tools/](https://rajmahavir.github.io/Tools/)
 
 ## ✨ Features
 
@@ -32,7 +37,7 @@ This all-in-one toolkit combines three powerful applications into one modern, un
 ## 🚀 Quick Start
 
 ### Online Use (Easiest)
-Visit: [https://rajmahavir.github.io/claude-test-repo/](https://rajmahavir.github.io/claude-test-repo/)
+Visit: **[https://rajmahavir.github.io/Tools/](https://rajmahavir.github.io/Tools/)**
 
 ### Local Use
 1. Download `index.html`
@@ -121,7 +126,7 @@ The application is fully optimized for mobile devices:
 ## 📁 Project Structure
 
 ```
-claude-test-repo/
+Tools/
 ├── index.html          # Complete all-in-one application
 └── README.md          # This file
 ```
@@ -136,9 +141,13 @@ claude-test-repo/
 ## 🌐 Deployment
 
 ### GitHub Pages (Recommended)
-1. Enable GitHub Pages in repository settings
-2. Select branch and root folder
-3. Access at: `https://rajmahavir.github.io/claude-test-repo/`
+Already deployed! Access at: **[https://rajmahavir.github.io/Tools/](https://rajmahavir.github.io/Tools/)**
+
+To redeploy:
+1. Go to repository Settings → Pages
+2. Select branch: `claude/combine-html-repos-011CUr9DXH4MayjsUEvnwtvF`
+3. Select folder: `/ (root)`
+4. Click Save
 
 ### Other Options
 - **Netlify**: Drag & drop the HTML file
@@ -150,7 +159,7 @@ claude-test-repo/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
-- Report bugs via [GitHub Issues](https://github.com/rajmahavir/claude-test-repo/issues)
+- Report bugs via [GitHub Issues](https://github.com/rajmahavir/Tools/issues)
 - Submit feature requests
 - Create pull requests
 - Share the project
